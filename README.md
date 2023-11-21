@@ -1,4 +1,4 @@
-<div style="vertical-aligh: center;"><img src="./doc/matrix.gif" alt="Matrix" align="left" height="600"/> <h2> Matrix </h2> <p> 
+<div style="vertical-aligh: center;"><img src="./doc/matrix.gif" alt="Matrix" align="left" height="100"/> <h2> Matrix </h2> <p> 
 
 Hello, I know you are here to learn about concurrency.
 
